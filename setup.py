@@ -178,7 +178,7 @@ else:
     features = {"c-ext": c_ext}
 
 setup(
-    name="zzz-dampier-pymongo",
+    name="dampier-pymongo",
     version="2.1.1",
     description="Python driver for MongoDB <http://www.mongodb.org>",
     long_description=readme_content,
